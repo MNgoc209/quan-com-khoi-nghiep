@@ -1,0 +1,10 @@
+# Bỏ qua các thư viện nặng của Node.js (cả Frontend và Backend)
+node_modules/
+restaurant-backend/node_modules/
+restaurant-frontend/node_modules/
+
+# Bỏ qua các file cấu hình môi trường ẩn (sau này sẽ dùng tới)
+.env
+
+# Bỏ qua các file sinh ra khi build frontend
+dist/
